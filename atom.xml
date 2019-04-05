@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lilongfei.tk/"/>
-  <updated>2019-04-04T09:26:26.411Z</updated>
+  <updated>2019-04-05T04:42:07.128Z</updated>
   <id>https://blog.lilongfei.tk/</id>
   
   <author>
@@ -18,27 +18,27 @@
   
   <entry>
     <title>test2</title>
-    <link href="https://blog.lilongfei.tk/2019/04/04/test2/"/>
-    <id>https://blog.lilongfei.tk/2019/04/04/test2/</id>
-    <published>2019-04-04T09:09:48.000Z</published>
-    <updated>2019-04-04T09:26:26.411Z</updated>
+    <link href="https://blog.lilongfei.tk/2019/04/05/test2/"/>
+    <id>https://blog.lilongfei.tk/2019/04/05/test2/</id>
+    <published>2019-04-05T04:41:34.000Z</published>
+    <updated>2019-04-05T04:42:07.128Z</updated>
     
-    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    <content type="html"><![CDATA[<p>测试测试测试测试</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;测试&lt;/p&gt;
+        &lt;p&gt;测试测试测试测试&lt;/p&gt;
 
       
     
     </summary>
     
-      <category term="cate" scheme="https://blog.lilongfei.tk/categories/cate/"/>
+      <category term="cate2" scheme="https://blog.lilongfei.tk/categories/cate2/"/>
     
     
-      <category term="tag" scheme="https://blog.lilongfei.tk/tags/tag/"/>
+      <category term="tags2" scheme="https://blog.lilongfei.tk/tags/tags2/"/>
     
   </entry>
   
